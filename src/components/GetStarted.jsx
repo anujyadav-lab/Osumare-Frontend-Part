@@ -6,7 +6,7 @@ import Cuate from '../Img/cuate.png'
 import backgroundImg from '../Img/Bg.png'
 const GetStarted = () => {
   return (
-    <div className="bg-cover bg-center min-h-screen " style={{backgroundImage:`url(${backgroundImg})`}}>
+    <div className="bg-cover bg-center  " style={{backgroundImage:`url(${backgroundImg})`}}>
       <div className=" bg-slate-50 p-4 flex items-center justify-between w-ful">
         <img className=" w-44 h-44 cursor-pointer" src={Logo} alt="Logo" />
         <button className=" font-bold border-2 rounded-3xl   px-[58px] py-[10px] ">Contact Us</button>
