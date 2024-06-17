@@ -6,7 +6,7 @@ import Vector1 from "../Img/Content.png";
 import vector2 from "../Img/Web.png";
 import vector3 from "../Img/Data.png";
 import vector4 from "../Img/End.png";
-import vector5 from "../Img/Video.png";
+import vector5 from "../Img/VideoLogo.png";
 
 const Services = () => {
   return (
